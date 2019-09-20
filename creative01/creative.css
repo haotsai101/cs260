@@ -1,0 +1,52 @@
+body {
+    padding: 10px;
+    background-color: #f6eee4;
+}
+
+header {
+    font-style: italic;
+    color: #806f5b;
+}
+
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+
+.imgForWel {
+    float: right;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #000000;
+}
+
+.grid-item {
+    background-color: #EDEDED;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.grid-container img {
+    border-radius: 10px;
+}
+
+.project-pics {
+    width: 50%;
+    background-color: #e6e6e6;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    text-align: center;
+    padding: 10px 20px;
+}
