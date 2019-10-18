@@ -1,0 +1,17 @@
+.change{
+    background-image: url("http://2.bp.blogspot.com/-E2_BSMtyBB8/ViC-agBdsoI/AAAAAAAAAdM/fI2OtSqAjA4/s1600/movie%2Bposter%2Bcollage.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: auto; /* Resize the background image to cover the entire container */
+    background-attachment: fixed;
+}
+
+footer {
+    right: 0;
+    bottom: 0;
+    height: 5px;
+    width: 100%;
+    overflow: hidden;
+    position: fixed;
+}
